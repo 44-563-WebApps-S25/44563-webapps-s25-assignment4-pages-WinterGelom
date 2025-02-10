@@ -1,0 +1,14 @@
+.speech {color:black; font-size: medium; font-family: Arial, Helvetica, sans-serif;}
+.stage-direction {background-color: gold; color:black; font-size: small; font-family: 'Times New Roman', Times, serif;}
+.name {color:black; font-size: large; font-family: Arial, Helvetica, sans-serif;}
+.stage-direction:hover {background-color: aqua; color:red}
+.shollaw {color: green}
+.slender {color: blue}
+.sir_hugh_evans {color: red}
+
+.name:hover {border-style: dotted; text-shadow: 3px 4px 6px green;}
+
+/*Table Style*/
+table {text-align: center; color: yellow; border-style: dashed; border-spacing: 0px; background-color: lightgray}
+tr:nth-child(even) {background-color: grey;}
+td, th {border-style: solid; padding: 5px; border-color: black}
